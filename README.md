@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Daisyhaxx
 - 👀 I’m interested in Python and C#
-- 🌱 I’m currently learning C# and Flutter
+- 🌱 I’m currently learning C# and Web Development
 - 💞️ I’m looking to collaborate on ⌛
 - 📫 How to reach me twitter.com/Daisyhax
 
