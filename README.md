@@ -1,7 +1,6 @@
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0ea5e9&height=180&section=header&text=Yunus%20Emre%20%C3%96zen&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=AI%20%26%20Machine%20Learning%20Student&descSize=18&descAlignY=60" alt="banner" />
+<img src="./assets/banner.svg" alt="Yunus Emre Özen - AI & Machine Learning Student" width="100%" />
 
 <a href="https://github.com/daisyhaxx">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=0EA5E9&center=true&vCenter=true&width=520&lines=Building+end-to-end+ML+pipelines;Football+%2B+esports+data+nerd;Leakage-free+features+%7C+calibrated+models;Currently+exploring+similarity+search" alt="typing animation" />
@@ -88,16 +87,6 @@ Find players with a similar profile to a given footballer, starting with the dat
 
 ---
 
-## 📈 GitHub stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=daisyhaxx&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daisyhaxx&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top languages" />
-
-</div>
-
----
 
 ## 🐍 Contribution snake
 
@@ -118,6 +107,6 @@ Find players with a similar profile to a given footballer, starting with the dat
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yunuseozen0@gmail.com)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/oozen00)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:0f172a&height=100&section=footer" alt="footer" />
+<img src="./assets/footer.svg" alt="footer" width="100%" />
 
 </div>
