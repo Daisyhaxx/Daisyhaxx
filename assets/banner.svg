@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 220" width="1000" height="220" role="img" aria-label="Yunus Emre Özen - AI and Machine Learning Student">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0f172a"/>
+      <stop offset="1" stop-color="#0ea5e9"/>
+    </linearGradient>
+    <clipPath id="clip"><rect width="1000" height="220" rx="14"/></clipPath>
+  </defs>
+  <rect width="1000" height="220" rx="14" fill="url(#bg)"/>
+  <path clip-path="url(#clip)" d="M0 170 C 150 130, 300 210, 500 170 S 850 130, 1000 170 L1000 220 L0 220 Z" fill="#ffffff" fill-opacity="0.08"/>
+  <path clip-path="url(#clip)" d="M0 190 C 180 160, 330 225, 520 192 S 860 160, 1000 190 L1000 220 L0 220 Z" fill="#ffffff" fill-opacity="0.10"/>
+  <text x="500" y="100" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="54" font-weight="700" fill="#ffffff">Yunus Emre Özen</text>
+  <text x="500" y="144" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="22" fill="#e0f2fe" letter-spacing="1">AI &amp; Machine Learning Student</text>
+</svg>
