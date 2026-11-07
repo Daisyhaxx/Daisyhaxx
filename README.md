@@ -14,7 +14,7 @@
 
 I'm an AI & Machine Learning student at **Kocaeli University**. I like turning messy sports and esports data into models that actually get deployed: clean features, honest validation, a small API on top.
 
-- 🔭 Working on: a **football similar-player finder**
+- 🔭 Working on: [**Muadil**](https://github.com/daisyhaxx/muadil), an explainable similar-player finder for football
 - 📊 Strongest at: statistics, data pipelines, tabular ML
 - 🌱 Learning: similarity search on football data
 
@@ -61,10 +61,15 @@ University ML course project, built as a team (Group 7).
 </td>
 <td width="50%" valign="top">
 
-### ⚽ Similar Player Finder _(in progress)_
-Find players with a similar profile to a given footballer, starting with the data-source and feature side.
+### ⚽ [muadil](https://github.com/daisyhaxx/muadil)
+Finds the closest **statistical match** for a footballer, ideally a younger or cheaper one.
 
-`Python` `Similarity search` `Football data`
+- 6 leagues × 3 seasons, per-90 stats adjusted for league level and team possession
+- Cosine similarity with per-stat explanations and radar charts
+- Season-to-season retrieval test: **86% recall@10**, MRR 0.585 (random: 20%)
+- FastAPI service + web UI, filters for age, league, value, contract, foot
+
+`Python` `pandas` `FastAPI` `Similarity search`
 
 </td>
 </tr>
